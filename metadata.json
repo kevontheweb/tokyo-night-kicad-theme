@@ -1,0 +1,30 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Tokyo Night",
+    "description": "A clean dark theme that celebrates the lights of Downtown Tokyo at night.",
+    "description_full": "A clean dark theme that celebrates the lights of Downtown Tokyo at night.",
+    "identifier": "kevontheweb.net.tokyonight",
+    "type": "colortheme",
+    "author": {
+        "name": "Kevin Nel",
+        "contact": {
+            "web": "https://kevontheweb.net"
+        }
+    },
+    "maintainer": {
+        "name": "Kevin Nel",
+        "contact": {
+            "web": "https://kevontheweb.net"
+        }
+    },
+    "license": "Apache-2.0",
+    "resources": {
+        "Website": "https://kevontheweb.net",
+        "Github": "https://github.com/kevontheweb/kicad-tokyo-night"
+    },
+    "versions": [{
+        "version": "2024.02.03",
+        "status": "stable",
+        "kicad_version": "9.0"
+    }]
+}
