@@ -3,7 +3,7 @@
     "name": "Tokyo Night",
     "description": "A clean dark theme that celebrates the lights of Downtown Tokyo at night.",
     "description_full": "A clean dark theme that celebrates the lights of Downtown Tokyo at night. Based on the VSCode theme by @enkia",
-    "identifier": "org.github.kevontheweb.tokyo-night-kicad-theme",
+    "identifier": "com.github.kevontheweb.tokyo-night-kicad-theme",
     "type": "colortheme",
     "author": {
         "name": "Kevin Nel",
