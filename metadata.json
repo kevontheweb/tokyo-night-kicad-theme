@@ -6,25 +6,26 @@
     "identifier": "com.github.kevontheweb.tokyo-night-kicad-theme",
     "type": "colortheme",
     "author": {
-        "name": "Kevin Nel",
+        "name": "Kevin",
         "contact": {
             "web": "https://kevontheweb.net"
         }
     },
     "maintainer": {
-        "name": "Kevin Nel",
+        "name": "Kevin",
         "contact": {
             "web": "https://kevontheweb.net"
         }
     },
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/kevontheweb/kicad-tokyo-night",
-        "github": "https://github.com/kevontheweb/kicad-tokyo-night"
+        "Website": "https://github.com/kevontheweb/tokyo-night-kicad-theme",
+        "Github": "https://github.com/kevontheweb/tokyo-night-kicad-theme"
     },
     "versions": [{
-      "version": "2025.02.03",
-      "status": "stable",
-      "kicad_version": "8.0"
+		"version": "2025.02.03",
+		"status": "stable",
+		"kicad_version": "8.0",
+		"download_url": "https://github.com/kevontheweb/tokyo-night-kicad-theme/releases/download/2025.02.05/tokyo-night-kicad-theme.zip",
 	}]
 }
